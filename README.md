@@ -7,24 +7,14 @@ I'm a passionate Full Stack Web Developer with a love for coding and creating in
 <h3>Skills</h3>
 <h4>Front-End Languages:</h4>
         HTML, CSS, JavaScript <br>
-        Frameworks/Libraries: React, Angular, Vue.js <br>
-        Tools: Webpack, Babel, NPM, Yarn. <br>
-<br>
+        Frameworks/Libraries: React, Angula <br>
+        Tools: NPM, Yarn. <br>
+
 <h4>Back-End
 Languages:</h4> Node.js, Python, PHP, Java<br>
-Frameworks: Express.js, Django, Flask, Laravel, Spring Boot<br>
-Databases: MySQL, PostgreSQL, MongoDB, SQLite.<br>
-<br>
-Projects
-[Project 1: Name]
-Description: A brief overview of the project. What problem does it solve? What technologies did you use?
-Technologies: List the main technologies used.
-Repository: Link to the repository
-<br>
-[Project 2: Name]
-Description: A brief overview of the project. What problem does it solve? What technologies did you use?
-Technologies: List the main technologies used.
-Repository: Link to the repository
+Frameworks: Express.js, Django, Flask, Spring Boot<br>
+Databases: MySQL, MongoDB, SQLite. <br>
+
 <br>
 Contact Me
 I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out to me via the following platforms:
